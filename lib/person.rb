@@ -8,7 +8,7 @@ class Person
     @name
   end
 end
-beyonce = Person.new("Beyonce")
+beyonce = Person.new
   beyonce.name
 
 class Person
