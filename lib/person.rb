@@ -9,7 +9,7 @@ class Person
   end
 end
 beyonce = Person.new
-  beyonce.name
+beyonce.name ="Beyonce"
 
 class Person
   
@@ -21,5 +21,5 @@ class Person
      @job
  end
 end
-beyonce = Person.new("Singer")
-beyonce.job 
+beyonce = Person.new
+beyonce.job = ("Singer")
